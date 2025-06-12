@@ -1,7 +1,10 @@
 package expedicionesapp;
 
+import expedicionesapp.util.Conexion;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Conexion c = new Conexion();
+        c.mostrarMiembros();
     }
 }

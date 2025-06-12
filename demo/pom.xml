@@ -13,4 +13,35 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <!-- SQL Server JDBC Driver -->
+        <dependency>
+            <groupId>com.microsoft.sqlserver</groupId>
+            <artifactId>mssql-jdbc</artifactId>
+            <version>12.10.0.jre11</version> <!-- Versión compatible con Java 17 -->
+        </dependency>
+    </dependencies>
+
+    <!-- REPOSITORIOS EXTRAS -->
+    <repositories>
+        <repository>
+            <id>microsoft</id>
+            <name>Microsoft JDBC Repository</name>
+            <url>https://maven.microsoft.com/repo/</url>
+        </repository>
+    </repositories>
+
+    <build>
+        <plugins>
+            <!-- Plugin para ejecutar el main -->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <mainClass>expedicionesapp.Main</mainClass>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>
