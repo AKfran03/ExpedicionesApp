@@ -8,3 +8,6 @@ Estructurado de carpetas:
 
 
 	-csv's: acá se encontrarán todos los archivos csv necesarios para importar a la base de datos.
+	
+	-Python: acá hay una serie de archivos.py y .csv, son todas las cosas que use para realizar la conversión al formato que necesitamos.
+		si necesitan cambiar alguna columna o algo, desde los csv. son una buena base para mandarle a chat.
