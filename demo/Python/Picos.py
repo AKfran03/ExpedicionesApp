@@ -14,7 +14,7 @@ with open('picos.csv', newline='', encoding='utf-8') as f_entrada, \
 
     lector = csv.DictReader(f_entrada)
     campos = [
-        'id_pico', 'id_localizacion', 'abierto', 'altura',
+        'id_pico', 'descripcion', 'id_localizacion', 'abierto', 'altura',
         'cambio_trekking', 'sin_aprobacion', 'año_de_cambio',
         'estado', 'restricciones', 'codigo_pico'
     ]
@@ -33,6 +33,7 @@ with open('picos.csv', newline='', encoding='utf-8') as f_entrada, \
 
         escritor.writerow({
             'id_pico': id_auto,
+            'descripcion': fila['nombre_Pico'].strip(),
             'id_localizacion': localizaciones[loc],
             'abierto': convertir_bit(fila['Abierto']),
             'altura': int(fila['Altura'].strip()),
@@ -46,4 +47,4 @@ with open('picos.csv', newline='', encoding='utf-8') as f_entrada, \
 
         id_auto += 1
 
-print("✅ Piicos.csv creado correctamente con valores binarios convertidos y codigo_pico agregado.")
+print("✅ Piicos.csv creado correctamente con 'descripcion' agregada como segundo campo.")

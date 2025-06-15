@@ -1,0 +1,481 @@
+codigo_pico,nombre_Pico,Localizacion,Altura,Abierto,Sin_aprobacion,cambio_a_trekking,Año_De_Cambio,Restriccion,Host,Estado
+ACHN,Aichyn,Chandi Himal (SW of Changwathang),6055,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+AMAD,Ama Dablam,Khumbu Himal,6814,SI,NO,NO,0,No hay,Nepal,Escalado
+AMOT,Amotsang,Damodar Himal (NW of Pokharhan),6393,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+AMPG,Amphu Gyabjen,Khumbu Himal (N of Ama Dablam),5630,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+AMPH,Amphu I,"Khumbu Himal (E of Amphu Laptsa, W of Baruntse)",6740,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+AMPM,Amphu Middle,Khumbu Himal (NW of Amphu Laptsa),6202,NO,SI,NO,0,Requiere permiso de Amphu I,Nepal,Escalado
+ANID,Anidesh Chuli,Kangchenjunga Himal (W of Kangbachen),6808,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+ANN1,Annapurna I,Annapurna Himal,8091,SI,NO,NO,0,No hay,Nepal,Escalado
+ANN2,Annapurna II,Annapurna Himal,7937,SI,NO,NO,0,No hay,Nepal,Escalado
+ANN3,Annapurna III,Annapurna Himal,7555,SI,NO,NO,0,No hay,Nepal,Escalado
+ANN4,Annapurna IV,Annapurna Himal,7525,SI,NO,NO,0,No hay,Nepal,Escalado
+ANNE,Annapurna I East,Annapurna Himal (ENE of Annapurna I),8026,SI,NO,NO,0,Requiere permiso de Annapurna I,Nepal,Escalado
+ANNM,Annapurna I Middle,Annapurna Himal (ENE of Annapurna I),8051,SI,NO,NO,0,Requiere permiso de Annapurna I,Nepal,Escalado
+ANNS,Annapurna South,Annapurna Himal (S of Annapurna I and Fang),7219,SI,NO,NO,0,No hay,Nepal,Escalado
+APIM,Api Main,Api Himal,7132,SI,NO,NO,0,No hay,Nepal,Escalado
+APIW,Api West,Api Himal (W of Api),7076,SI,NO,NO,0,No hay,Nepal,Sin escalar
+ARDN,Ardang,Phupharka Himal (NW of Simikot),6034,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+ARNK,Arniko Chuli,Mukut Himal (W Mustang near Tibetan border),6034,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+ASAJ,Asajya Tuppa,Gorakh Himal (ENE of Simikot on Tibetan border),6265,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+BAMO,Bamongo,Rolwaling Himal (E of Chekigo on Tibetan border),6400,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+BARU,Baruntse,Khumbu Himal (W of Makalu),7152,SI,NO,NO,0,No hay,Nepal,Escalado
+BAUD,Baudha,Mansiri Himal (SE of Manaslu and Himalchuli),6672,SI,NO,NO,0,No hay,Nepal,Escalado
+BEDG,Beding Go,Rolwaling Himal (N of Beding village on Tibetan border),6125,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+BHEM,Bhemdang Ri,Jugal Himal (SE of Shalbachum),6150,SI,NO,NO,0,No hay,Nepal,Escalado
+BHRI,Bhrikuti,Damodar Himal (NE of Thorong La near Tibetan border),6476,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+BHRS,Bhrikuti Shail,Damodar Himal (NE of Thorong La on Tibetan border),6361,SI,NO,NO,0,No hay,Nepal & China,Escalado
+BHUL,Bhulu Lhasa,Kanjiroba Himal (NNW of Kanjiroba North),6102,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+BIJO,Bijora Hiunchuli,Jagdula Lekh (S of Kande Huinchuli),6111,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+BOBA,Bobaye,Api Himal (S of Nampa),6808,SI,NO,NO,0,No hay,Nepal,Escalado
+BOKT,Boktoh,Kangchenjunga Himal (SE of Jannu),6114,NO,NO,SI,0,abierto en 2002,Nepal,Escalado
+BTAK,Bhairab Takura,Jugal Himal (ENE of Dorje Lhakpa on Tibetan border),6799,SI,NO,NO,0,No hay,Nepal & China,Escalado
+BURK,Burke Kang,Khumbu Himal (ENE of Hungchhi on Tibetan border),6942,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+CBAM,Chhopa Bamare,Rolwaling Himal (NW of Lamabagar on Tibetan border),6109,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+CHAB,Chabuk,Ohmi Kangri Himal (E of Ohmi Kangri on Tibetan border),6792,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+CHAG,Chago,Makalu Himal (NW of Makalu II on Tibetan border),6893,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+CHAK,Chako,Damodar Himal (ESE of Bhrikuti Shail),6704,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+CHAM,Chamlang,"Khumbu Himal (in Hongku Valley, SW of Makalu)",7321,SI,NO,NO,0,No hay,Nepal,Escalado
+CHAN,Changla,Changla Himal (N of Jumla on Tibetan border),6563,SI,NO,NO,0,No hay,Nepal & China,Escalado
+CHAW,Chaw Peak,Ohmi Kangri Himal (WNW of Ohmi Kangri on Tibetan border),6404,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+CHEK,Chekigo,Rolwaling Himal (ENE of Beding village on Tibetan border),6257,NO,NO,SI,2002,abierto en 2002 as trekking peak,Nepal & China,Escalado
+CHEO,Cheo Himal,Peri Himal (ESE of Himlung Himal on Tibetan border),6820,SI,NO,NO,0,No hay,Nepal & China,Escalado
+CHIV,Chhiv Himal,Damodar Himal (SW of Saribang and WSW of Bhrikuti),6650,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+CHKA,Chamar Kang,"Mukut Himal (NW of Tsharka village, SE of Tingkyu village)",6060,NO,SI,NO,0,No hay,Nepal,Escalado
+CHMN,Chamar North,Shringi Himal,7165,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+CHMR,Chamar,Shringi Himal (SSE of Chamar),7161,SI,NO,NO,0,No hay,Nepal,Sin escalar
+CHND,Chandi Himal,Chandi Himal (NE of Simikot on Tibetan border),6142,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+CHNG,Changdi,Palchung Himal (SE of Kanti Himal peak on Tibetan border),6623,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+CHOB,Chobuje,Rolwaling Himal (NE of Tsho Rolpa),6686,SI,NO,NO,0,No hay,Nepal,Escalado
+CHOL,Cholatse,Khumbu Himal (N of Tawoche),6423,NO,NO,SI,2002,Converted to trekking peak in 2002,Nepal,Escalado
+CHOP,Cho Polu,"Khumbu Himal (S of Shartse, N of Baruntse)",6700,SI,NO,NO,0,No hay,Nepal,Escalado
+CHOY,Cho Oyu,Khumbu Himal (NW of Everest on Tibetan border),8188,SI,NO,NO,0,No hay,Nepal & China,Escalado
+CHRE,Churen Himal East,Dhaulagiri Himal (NW of Dhaulagiri VI),7371,SI,NO,NO,0,Un permiso de Churen Himal's three summits,Nepal,Escalado
+CHRI,Chhukung Chuli,Khumbu Himal (S of Lhotse),5550,NO,NO,SI,2002,abierto en 1997; converted to trekking peak in 2002,Nepal,Escalado
+CHRW,Churen Himal West,Dhaulagiri Himal (NW of Dhaulagiri VI),7371,SI,NO,NO,0,Un permiso de Churen Himal's three summits,Nepal,Escalado
+CHUB,Chhuboche,Damodar Himal (NNE of Pisang Peak),5606,SI,NO,NO,0,No hay,Nepal,Escalado
+CHUG,Chukyima Go,Rolwaling Himal (WSW of Tesi Laptsa),6258,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+CHUK,Chhukung Tse,Khumbu Himal (S of Lhotse),5833,NO,NO,SI,0,No hay,Nepal,Escalado
+CHUL,Chulu Central,Damodar Himal (E of Thorong La),6584,NO,NO,SI,1978,No hay,Nepal,Escalado
+CHUM,Chumbu,Khumbu Himal (WSW of Khangri Shar near Tibetan border),6859,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+CHUR,Churen Himal Central,Dhaulagiri Himal (NW of Dhaulagiri VI),7385,SI,NO,NO,0,Un permiso de Churen Himal's three summits,Nepal,Escalado
+CHUW,Chulu West,Damodar Himal (E of Thorong La),6419,NO,NO,SI,1978,No hay,Nepal,Escalado
+CHWT,Changwathang,Chandi Himal (S of Tibetan border),6130,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+CPHU,Chhochenphu Himal,Ohmi Kangri Himal (SW of Pabuk Kang near Tibetan border),6260,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+CTSE,Changtse,North of Everest (in Tibet),7583,NO,SI,NO,0,Pico entereamente en China,China only,Escalado
+DANG,Danga,"Ohmi Kangri Himal (WNW of Lhonak, E of Nupchu)",6355,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+DANS,Danphe Shail,Palchung Himal (N of Kanjiroba on Tibetan border),6103,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+DGAR,Dhaulagari,"Raksha Urai Himal (E of Bobaye, S of Raksha Urai)",6638,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+DHA1,Dhaulagiri I,Dhaulagiri Himal,8167,SI,NO,NO,0,No hay,Nepal,Escalado
+DHA2,Dhaulagiri II,Dhaulagiri Himal (NW of Dhaulagiri I),7751,SI,NO,NO,0,No hay,Nepal,Escalado
+DHA3,Dhaulagiri III,Dhaulagiri Himal (SW of Dhaulagiri II),7715,SI,NO,NO,0,No hay,Nepal,Escalado
+DHA4,Dhaulagiri IV,Dhaulagiri Himal (W of Dhaulagiri V),7661,SI,NO,NO,0,No hay,Nepal,Escalado
+DHA5,Dhaulagiri V,Dhaulagiri Himal (SW of Dhaulagiri III),7618,SI,NO,NO,0,No hay,Nepal,Escalado
+DHA6,Dhaulagiri VI,Dhaulagiri Himal (WSW of Dhaulagiri IV),7268,SI,NO,NO,0,No hay,Nepal,Escalado
+DHAM,Dhampus,Mukut Himal (NE of Dhaulagiri I and Tukuche),6012,SI,NO,NO,0,No hay,Nepal,Escalado
+DHEC,Dhechyan Khang,Damodar Himal (ESE of Gaugiri on Tibetan border),6019,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+DING,Dingjung North,Rolwaling Himal (S of Pangbuk Ri on Tibetan border),6249,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+DINS,Dingjung Ri,Rolwaling Himal (S of Pangbuk Ri on Tibetan border),6196,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+DOGA,Dogari,Dhaulagiri Himal (WNW of Putha Hiunchuli),6536,SI,NO,NO,0,abierto en 2003,Nepal,Sin escalar
+DOLM,Dolma Khang,Rolwaling Himal (SE of Gaurishankar on Tibetan border),6332,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+DOMK,Dome Kang,Jongsang Himal (ESE of Jongsong on Indian border),7264,SI,NO,NO,0,abierto en 2002,Nepal & India,Escalado
+DOMO,Domo,Jongsang Himal (SE of Jongsong on Indian border),7447,NO,SI,NO,0,No hay,Nepal & India,Escalado
+DOR2,Dorje Lakpa II,Jugal Himal (S of Dorje Lhakpa),6593,NO,SI,NO,0,No hay,Nepal,Escalado
+DORJ,Dorje Lhakpa,Jugal Himal (near Tibetan border),6966,SI,NO,NO,0,No hay,Nepal,Escalado
+DRAG,Dragmorpa Ri,Langtang Himal (SW of Tilman's Col on Tibetan border),6185,SI,NO,NO,0,No hay,Nepal & China,Escalado
+DRAN,Drangnag Ri,Rolwaling Himal (N of Tesi Laptsa near Tibetan border),6757,SI,NO,NO,0,No hay,Nepal,Escalado
+DROM,Drohmo,Jongsang Himal (NNW of Kangchenjunga),6881,SI,NO,NO,0,abierto en 1997,Nepal,Sin escalar
+DUDH,Dudh Kundali,Jagdula Lekh (S of Kanjiroba Himal),6045,SI,NO,NO,0,No hay,Nepal,Escalado
+DWIJ,Dwijen Himal,Shringi Himal (NE of Ghap village on Tibetan border),6169,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+DZA2,Dzanye II,Janak Himal (S of Danzye Peak),6318,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+DZAN,Dzanye,Janak Himal (WNW of Lashar I on Tibetan border),6581,SI,NO,NO,0,No hay,Nepal & China,Escalado
+DZAS,Dzasampatse,Khumbu Himal (S of Pasang Lhamu Chuli),6295,NO,SI,NO,0,No hay,Nepal,Escalado
+EKRA,Ek Rate Danda,"Khumbu Himal (in Hongku Valley, S of Chamlang)",6213,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+EVER,Everest,Khumbu Himal,8849,SI,NO,NO,0,No hay,Nepal & China,Escalado
+FANG,Fang,Annapurna Himal (SW of Annapurna I),7647,SI,NO,NO,0,No hay,Nepal,Escalado
+FIRN,Firnkopf,Saipal Himal (W of Saipal),6730,SI,NO,NO,0,No hay,Nepal,Sin escalar
+FIRW,Firnkopf West,Saipal Himal (WSW of Firnkopf),6745,SI,NO,NO,0,No hay,Nepal,Escalado
+FUTI,Futi Himal,Damodar Himal (W of Bhrikuti),6425,NO,SI,SI,0,No hay,Nepal,Escalado
+GAMA,Gama Peak,"Dhaulagiri Himal (N of Dhaulagiri VI, S of Junction Peak)",7187,NO,SI,NO,0,No hay,Nepal,Escalado
+GAN1,Ganesh I,Ganesh Himal (on Tibetan border),7422,SI,NO,NO,0,No hay,Nepal & China,Escalado
+GAN2,Ganesh II,Ganesh Himal (WSW of Ganesh I),7118,SI,NO,NO,0,No hay,Nepal,Escalado
+GAN3,Ganesh III,Ganesh Himal (S of Ganesh I on Tibetan border),7043,SI,NO,NO,0,No hay,Nepal & China,Escalado
+GAN4,Ganesh IV,Ganesh Himal (SW of Ganesh I),7104,SI,NO,NO,0,No hay,Nepal,Escalado
+GAN5,Ganesh V,Ganesh Himal (SE of Ganesh I on Tibetan border),6770,SI,NO,NO,0,No hay,Nepal & China,Escalado
+GAN6,Ganesh VI,Ganesh Himal (subpeak SE of Ganesh II),6908,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+GAN7,Ganesh VII,Ganesh Himal (E of Ganesh I in Tibet),6350,NO,SI,NO,0,No hay,China only,Sin escalar
+GANC,Ganchenpo,Jugal Himal (W of Dorje Lhakpa and Urkinmang),6378,SI,NO,NO,0,No hay,Nepal,Escalado
+GAND,Gandharva Chuli,Annapurna Himal (SSW of Annapurna III near Machhapuchhare),6248,SI,NO,NO,0,No hay,Nepal,Escalado
+GANG,Gangapurna,Annapurna Himal (NW of Annapurna III),7455,SI,NO,NO,0,No hay,Nepal,Escalado
+GANW,Gangapurna West,Annapurna Himal (W of Gangapurna),7140,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+GAUG,Gaugiri,Damodar Himal (N of Bhrikuti on Tibetan border),6110,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+GAUR,Gaurishankar,Rolwaling Himal (on Tibetan border),7135,SI,NO,NO,0,No hay,Nepal & China,Escalado
+GAUS,Gaurishankar South,Rolwaling Himal (S of Gaurishankar),7010,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+GDNG,Gave Ding,Changla Himal (N of Lachama Chuli on Tibetan border),6581,NO,SI,NO,0,Requiere permiso de Lachama Chuli,Nepal & China,Escalado
+GHAN,Ghhanyala Hies,Janak Himal (NW of Janak Chuli on Tibetan border),6744,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+GHEN,Ghenge Liru,Langtang Himal (WSW of Langtang Lirung),6596,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+GHUN,Ghustang North,Dhaulagiri Himal (WNW of Gurja Himal),6529,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+GHUS,Ghustang South,Dhaulagiri Himal (WSW of Gurja Himal),6465,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+GHYM,Ghyuthumba Main,Jagdula Lekh (S of Kanjiroba Himal),5806,NO,SI,NO,0,No hay,Nepal,Escalado
+GHYN,Ghyun Himal I,Mustang Himal (N of Ghyun Khola on Tibetan border),6110,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+GIME,Gimmigela Chuli East,Kangchenjunga Himal (N of Kangchenjunga on Indian border),7007,NO,SI,NO,0,Requiere permiso de Gimmigela Chuli,Nepal & India,Escalado
+GIMM,Gimmigela Chuli,Kangchenjunga Himal (N of Kangchenjunga on Indian border),7350,SI,NO,NO,0,No hay,Nepal & India,Escalado
+GLAC,Glacier Dome,Annapurna Himal (E of Annapurna I),7168,SI,NO,NO,0,No hay,Nepal,Escalado
+GOJN,Gojung,Kanti Himal (WNW of Kanti Himal peak on Tibetan border),6310,NO,SI,NO,0,No hay,Nepal & China,Escalado
+GOLD,Goldum Peak,Jugal Himal (on Tibetan border),6632,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+GORH,Gorakh Himal,Gorakh Himal (NE of Simikot on Tibetan border),6198,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+GORK,Gorakh Khang,Gorakh Khang (ENE of Simikot on Tibetan border),6254,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+GURA,Guras,Guras Himal (NE of Nampa on Tibetan border),6744,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+GURJ,Gurja Himal,Dhaulagiri Himal (S of Dhaulagiri VI),7193,SI,NO,NO,0,No hay,Nepal,Escalado
+GURK,Gurkarpo Ri,Jugal Himal (N of Dorje Lhakpa on Tibetan border),6889,SI,NO,NO,0,No hay,Nepal & China,Escalado
+GYAC,Gyachung Kang,Khumbu Himal (E of Cho Oyu on Tibetan border),7861,SI,NO,NO,0,No hay,Nepal & China,Escalado
+GYAJ,Gyajikang,Peri Himal (SW of Himlung Himal),7074,SI,NO,NO,0,No hay,Nepal,Escalado
+GYLA,Gyala,Manaslu Himal (NNE of Larkya La on Tibetan border),6363,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+GYLZ,Gyalzen Peak,Jugal Himal (SE of Leonpo Gang on Tibetan border),6151,SI,NO,NO,0,No hay,Nepal & China,Escalado
+HCHI,Hungchhi,Khumbu Himal (S of Gyachung Kang on Tibetan border),7029,SI,NO,NO,0,abierto en 2001,Nepal & China,Escalado
+HERZ,Herzog Peak,Annapurna Himal (WSW of Roc Noir),7555,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+HIME,Himalchuli East,Mansiri Himal (SE of Manaslu),7893,SI,NO,NO,0,No hay,Nepal,Escalado
+HIMJ,Himjung,Peri Himal (S of Himlung Himal),7092,SI,NO,NO,20,abierto en 2002,Nepal,Escalado
+HIML,Himlung Himal,Peri Himal (NW of Manaslu near Tibetan border),7126,SI,NO,NO,0,No hay,Nepal,Escalado
+HIMN,Himalchuli North,"Mansiri Himal (SE of Manaslu, WNW of Himalchuli Main)",7331,SI,NO,NO,0,No hay,Nepal,Escalado
+HIMW,Himalchuli West,"Mansiri Himal (SE of Manaslu, W of Himalchuli Main)",7540,SI,NO,NO,0,No hay,Nepal,Escalado
+HIUP,Hiunchuli,Annapurna Himal (E of Annapurna South),6434,NO,NO,SI,1978,No hay,Nepal,Escalado
+HMLE,Himlung East,Peri Himal (E of Himlung Himal on Tibetan border),6932,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+HNKU,Hongku Chuli,"Khumbu Himal (in Hongku Valley, NE of Chamlang)",6833,SI,NO,NO,0,abierto en 2013?,Nepal,Sin escalar
+HONG,Hongde,Mukut Himal (N of Sita Chuchura in Hidden Valley),6556,SI,NO,NO,0,No hay,Nepal,Escalado
+HONK,Hongku,"Khumbu Himal (in Hongku Valley, W of Hongku Chuli)",6764,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+HUGO,Hulang Go,Peri Himal (WNW of Ratna Chuli on Tibetan border),6687,SI,NO,NO,0,abierto en 2014,Nepal & India,Escalado
+HUNK,Hunku,Khumbu Himal (NNE of Peak 41),6119,NO,SI,NO,0,"abierto en 2002, delisted in 2013?",Nepal,Escalado
+IMJA,Imjatse,Khumbu Himal (S of Lhotse),6165,NO,NO,NO,1978,No hay,Nepal,Escalado
+JABR,Jabou Ri,Rolwaling Himal (S of Tarkago),6166,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+JAGD,Jagdula,Jagdula Lekh (S of Kande Hiunchuli),5761,SI,NO,NO,0,No hay,Nepal,Escalado
+JANE,Jannu East,Kangchenjunga Himal (W of Kangchenjunga),7460,SI,NO,NO,0,Requires Jannu permit,Nepal,Sin escalar
+JANK,Janak Chuli,Janak Himal (WNW of Jongsang on Tibetan border),7041,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+JANU,Jannu,Kangchenjunga Himal (W of Kangchenjunga),7711,SI,NO,NO,0,No hay,Nepal,Escalado
+JARK,Jarkya,Manaslu Himal (N of Larkya La on Tibetan border),6473,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+JASG,Jasemba Goth,Khumbu Himal (NW of Pasang Lhamu Chuli),6730,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+JETH,Jethi Bahurani,Api Himal (S of Nampa and Bobaye),6850,SI,NO,NO,0,No hay,Nepal,Escalado
+JING,Jinjang,Damodar Himal (E of Thorong La),6111,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+JOBO,Jobo Rinjang,Rolwaling Himal (SW of Nangpa La near Tibetan border),6778,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+JOMS,Jomsom Himal,Damodar Himal (WNW of Amotsang Himal),6335,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+JONG,Jongsang,Jongsang Himal (on Indian-Tibetan border),7462,SI,NO,NO,0,No hay,"Nepal, China & India",Escalado
+JUG1,Jugal 1,Jugal Himal (E of Dorje Lakpa),6591,SI,NO,NO,0,abierto en 2023,Nepal,Escalado
+JUG2,Jugal 2,Jugal Himal (ENE of Dorje Lakpa),6518,SI,NO,NO,0,abierto en 2023,Nepal,Sin escalar
+JUG3,Jugal 3,Jugal Himal (SE of Dorje Lakpa),6184,SI,NO,NO,0,abierto en 2023,Nepal,Escalado
+JUG4,Jugal 4,Jugal Himal (SSE of Dorje Lakpa),5936,SI,NO,NO,0,abierto en 2023,Nepal,Sin escalar
+JUG5,Jugal 5,Jugal Himal (W of Yangri),5922,SI,NO,NO,0,abierto en 2023,Nepal,Escalado
+JUNC,Junction Peak,"Dhaulagiri Himal (on ridge joining Dhaulagiri VI, IV and Churen)",7133,NO,SI,NO,0,No hay,Nepal,Sin escalar
+JYAC,Jyachhung,Byas Risi Himal (NNW of Nampa on Tibetan border),6388,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+KABD,Kabru Dome,Simhalila Himal (SE of Kabru in India),6600,NO,SI,NO,0,No hay,India only,Escalado
+KABN,Kabru North,Simhalila Himal (S of Kabru Main on Indian border),7338,NO,SI,NO,0,No hay,Nepal & India,Escalado
+KABR,Kabru Main,Simhalila Himal (S of Talung on Indian border),7412,SI,NO,NO,0,abierto en 2014,Nepal & India,Escalado
+KABS,Kabru South,Simhalila Himal (S of Kabru North on Indian border),7318,SI,NO,NO,0,abierto en 2003,Nepal & India,Escalado
+KAG1,Kagmara I,Kagmara Lekh (S of Kanjiroba Himal),5978,SI,NO,NO,0,No hay,Nepal,Escalado
+KAGA,Kanta Gaton,Kanjiroba Himal (SE of Phoksumdo Tal),5910,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+KAIP,Kaipuchonam,Kanti Himal (WNW of Changdi on Tibetan border),6329,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+KAKU,Kang Kuru,"Mustang Himal (NNE of Tsartse, WSW of Ghami village)",6344,NO,SI,NO,0,No hay,Nepal,Escalado
+KALI,Kali Himal,Khumbu Himal (NW of Baruntse),6985,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+KAN1,Kande Hiunchuli North  I,Kanjiroba Himal (NE of Kande Huinchuli),6521,NO,SI,NO,0,No hay,Nepal,Sin escalar
+KAN2,Kande Hiunchuli North  II,Kanjiroba Himal (NE of Kande Huinchuli),6471,NO,SI,NO,0,No hay,Nepal,Escalado
+KANB,Kangbachen,Kangchenjunga Himal (W Spur of Kangchenjunga),7902,SI,NO,NO,0,No hay,Nepal,Escalado
+KANC,Kangchenjunga Central,Kangchenjunga Himal (between Main and South summits),8473,SI,NO,NO,0,No hay,Nepal & India,Escalado
+KAND,Kande Hiunchuli,Kanjiroba Himal (WNW of Kanjiroba),6627,SI,NO,NO,0,No hay,Nepal,Escalado
+KANG,Kangchenjunga,Kangchenjunga Himal,8586,SI,NO,NO,0,No hay,Nepal & India,Escalado
+KANN,Kangchenjunga North,Kangchenjunga Himal (small knob north of Main summit),7938,SI,NO,NO,0,abierto en 2014,Nepal & India,Sin escalar
+KANS,Kangchenjunga South,Kangchenjunga Himal,8476,SI,NO,NO,0,No hay,Nepal & India,Escalado
+KANT,Kanti Himal,Kanti Himal (NNW of Kanjiroba on Tibetan border),6850,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+KAPT,Kaptang,Kanti Himal (NW of Kanti Himal peak on Tibetan border),5965,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+KARK,Karko,Saipal Himal (WNW of Saipal),6015,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+KARS,Karsang Khang,Damodar Himal (NE of Saribung),6476,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+KARY,Karyolung,Rolwaling Himal (SE of Numbur),6530,SI,NO,NO,0,No hay,Nepal,Escalado
+KASI,Kasi Dalpha,Jagdula Lekh (S of Kande Huinchuli),6386,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+KBNE,Kangbachen East,Kangchenjunga Himal (plateau SE of Kangbachen?),7780,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+KBON,Konabon,Dhaulagiri Himal (SE of Gurja Himal),6570,SI,NO,NO,0,abierto en 2003,Nepal,Sin escalar
+KCHN,Kangchung Nup,Khumbu Himal (NE of Gokyo Lake),6043,NO,SI,NO,0,No hay,Nepal,Escalado
+KCHS,Kangchung Shar,Khumbu Himal (NE of Gokyo Lake),6063,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+KGRI,Khangri Shar,Khumbu Himal (W of Pumori),6792,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+KGRW,Khangri West,Khumbu Himal (W of Pumori),6658,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+KGUR,Kang Guru,Peri Himal (SW of Himlung Himal),6981,SI,NO,NO,0,No hay,Nepal,Escalado
+KHAM,Khamjung,Damodar Himal (W of Saribung and Bhrikuti),6759,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+KHAT,Khatang,Rolwaling Himal (E of Numbur),6790,SI,NO,NO,0,No hay,Nepal,Escalado
+KHAY,Khayang,Manaslu Himal (E of Samdo Peak on Tibetan border),6186,SI,NO,NO,0,abierto en 2003,Nepal & China,Sin escalar
+KHNG,Khung,Palchung Himal (NE of Kanjiroba on Tibetan border),6024,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+KHON,Khongma Tse,Khumbu Himal (SW of Nuptse),5798,NO,NO,SI,1978,No hay,Nepal,Escalado
+KHUM,Khumbutse,Khumbu Himal (NW of Lho La on Tibetan border),6639,SI,NO,NO,0,No hay,Nepal & China,Escalado
+KIMS,Kimshung,Langtang Himal (NE of Langtang Lirung),6781,NO,SI,NO,0,No hay,Nepal,Sin escalar
+KIRA,Kirat Chuli,Jongsang Himal (N of Kangchenjunga on Indian border),7362,SI,NO,NO,0,No hay,Nepal & India,Escalado
+KJER,Kanjeralwa,Kanjiroba Himal (NW of Phoksumdo Tal),6612,SI,NO,NO,0,No hay,Nepal,Escalado
+KJRN,Kanjiroba North,Kanjiroba Himal,6858,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+KJRS,Kanjiroba South,Kanjiroba Himal,6883,SI,NO,NO,0,Un permiso de Kanjiroba's north and south summits,Nepal,Escalado
+KNAG,Kang Nagchugo,Rolwaling Himal (E of Chekigo on Tibetan border),6737,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+KNTC,Kanti Himal Churau,Kanti Himal (NW of Kanti Himal on Tibetan border),6419,NO,SI,NO,0,No hay,Nepal & China,Sin escalar
+KNTE,Kanti Himal East,Kanti Himal (NW of Kanti Himal on Tibetan border),6516,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+KOGI,Kogi Khang North,Kanti Himal (ESE of Kanti Himal peak on Tibetan border),6275,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+KOJI,Kojichuwa Chuli,Kanti Himal (NNW of Kanti Himal peak on Tibetan border),6439,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+KOJS,Kojichuwa South,Kanti Himal (SW of Kojichuwa Chuli on Tibetan border),6264,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+KORL,Korlang Pari Tippa,N of Lamabagar on Tibetan border,5738,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+KOTA,Kotang,Simhalila Himal (SSW of Rothang on Indian border),6148,SI,NO,NO,0,No hay,Nepal & India,Escalado
+KTEG,Kangtega,Khumbu Himal (SW of Ama Dablam),6783,SI,NO,NO,0,No hay,Nepal,Escalado
+KTOK,Kangtokal,Dhaulagiri Himal (on ridge N of Putha Hiunchuli),6294,SI,NO,NO,0,abierto en 1997,Nepal,Escalado
+KTSU,Kangtsune,"Kagmara Lekh (SE of Kanjiroba, W of Kanjeralwa)",6444,NO,SI,NO,0,No hay,Nepal,Sin escalar
+KTUN,Khatung Khang,Annapurna-Nilgiri Himal (SW of Thorong La),6484,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+KUML,Kumlung,Damodar Himal (NE of Saribung and W of Bhrikuti),6355,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+KUSU,Kusum Kanguru,Khumbu Himal (NE of Lukla village),6370,NO,NO,SI,1978,No hay,Nepal,Escalado
+KWAN,Kwangde,Rolwaling Himal (W of Namche Bazar),6186,NO,NO,SI,1978,No hay,Nepal,Escalado
+KYAB,Kyabura,Janak Himal (SW of Dzanye on Tibetan border),6466,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+KYAS,Kyashar,Khumbu Himal (S of Kantega),6770,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+KYAZ,Kyazo Ri,Khumbu Himal (SW of Gokyo Lake),6151,NO,NO,SI,2002,abierto en 2002 as trekking peak,Nepal,Escalado
+KYR1,Kyungka Ri 1,Langtang Himal (NE of Shalbachum near Tibetan border),6599,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+KYR2,Kyungka Ri 2,Langtang Himal (NE of Shalbachum on Tibetan border),6506,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+LAMJ,Lamjung Himal,Annapurna Himal (SE of Annapurna II),6983,SI,NO,NO,0,No hay,Nepal,Escalado
+LAMP,Lampo,Ganesh Himal (N of Ganesh I on Tibetan border),6648,NO,SI,NO,0,No hay,Nepal & China,Sin escalar
+LANG,Langtang Lirung,Langtang Himal,7227,SI,NO,NO,0,No hay,Nepal,Escalado
+LANR,Langtang Ri,Langtang Himal (NE of Langtang Lirung on Tibetan border),7205,SI,NO,NO,0,No hay,Nepal & China,Escalado
+LANY,Langtang Yubra,Langtang Himal (ENE of Langtang Lirung),6048,NO,NO,SI,0,abierto en 2016,Nepal,Escalado
+LARK,Larkya Peak,Manaslu Himal (N of Manaslu North),6416,NO,NO,SI,0,No hay,Nepal,Escalado
+LAS2,Lashar II,Janak Himal (SW of Ghhanyala Hies on Tibetan border),6803,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+LASA,Lasa,Byas Risi Himal (NNW of Nampa on Tibetan border),6189,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+LASH,Lashar I,Janak Himal (NW of Lashar II on Tibetan border),6842,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+LCHA,Lachama Chuli,Changla Himal (N of Gorakh Himal on Tibetan border),6721,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+LCHN,Lachama North,Changla Himal (N of Lachama Chuli on Tibetan border),6628,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+LDAK,Langdak,Rolwaling Himal (N of Raungsiyar and Pimu),6220,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+LDNG,Langdung,Rolwaling Himal (WSW of Ripimo Shar on Tibetan border),6326,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+LEOE,Leonpo Gang East,Jugal Himal (NE of Leonpo Gang on Tibetan border),6733,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+LEON,Leonpo Gang,Jugal Himal (NNE of Dorje Lhakpa on Tibetan border),6979,SI,NO,NO,0,No hay,Nepal & China,Escalado
+LHAS,Lha Shamma,"Kagmara Lekh (S of Kanjiroba, NNW of Kagmara I)",6412,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+LHAY,Lhayul Peak,Api Himal (SW of Api Main),6395,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+LHOM,Lhotse Middle,Khumbu Himal (E of Lhotse),8410,SI,NO,NO,0,abierto en 2001,Nepal & China,Escalado
+LHOT,Lhotse,Khumbu Himal,8516,SI,NO,NO,0,No hay,Nepal & China,Escalado
+LIK1,Linkhu Chuli Shar,Rolwaling Himal (S of Parchamo),6719,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+LIK2,Linkhu Chuli Nup,"Rolwaling Himal (SSW of Parchamo, W of Likhu Chuli Shar)",6659,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+LING,Lingtren,Khumbu Himal (ENE of Pumori on Tibetan border),6713,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+LMOC,Langmoche Ri,Rolwaling Himal (N of Tesi Laptsa),6552,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+LNAK,Lhonak,Janak Himal (WNW of Drohmo),6070,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+LNGK,Langchung Khang,Jongsang Himal (NW of Langpo on Indian border),6786,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+LNJU,Langju,Shringi Himal (S of Tobsar),6426,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+LNKE,Lunchhung Kamo East,Kanti Himal (SE of Danfe Sail on Tibetan border),6024,NO,SI,NO,0,No hay,Nepal,Escalado
+LNPO,Langpo,Jongsang Himal (SE of Jongsang on Indian border),6965,SI,NO,NO,0,No hay,Nepal & India,Escalado
+LNPS,Langpo South,Jongsang Himal (SE of Langpo on Indian border),6857,NO,SI,NO,0,No hay,Nepal & India,Escalado
+LOBE,Lobuche East,Khumbu Himal (SW of Pumori),6119,NO,NO,SI,1978,No hay,Nepal,Escalado
+LOBW,Lobuche West,Khumbu Himal (SW of Pumori),6135,NO,NO,SI,2002,Converted to trekking peak in 2002,Nepal,Escalado
+LSAM,Lungsampa,Khumbu Himal (S of Nangpai Gosum II),6500,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+LSHR,Lhotse Shar,Khumbu Himal (ESE of Lhotse and Lhotse Middle),8382,SI,NO,NO,0,No hay,Nepal & China,Escalado
+LSIS,Langshisa Ri,Jugal Himal (NW of Dorje Lhakpa),6412,NO,NO,SI,2002,Converted to trekking peak in 2002,Nepal,Escalado
+LUGU,Lugula,Damodar Himal (E of Bhrikuti Sail on Tibetan border),6899,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+LUN2,Lunag II,Rolwaling Himal (SW of Nangpa La near Tibetan border),6812,NO,SI,NO,0,Requiere permiso de Jobo Rinjang,Nepal,Escalado
+LUNG,Lungchhung,Palchung Himal (NE of Kanjiroba on Tibetan border),6043,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+LUNR,Lunag Ri,Rolwaling Himal (SW of Nangpa La on Tibetan border),6895,NO,SI,NO,0,Requiere permiso de Jobo Rinjang,Nepal & China,Sin escalar
+LUNW,Lunag West,Rolwaling Himal (W of Lunag I on Tibetan border),6492,NO,SI,NO,0,Requiere permiso de Jobo Rinjang,Nepal & China,Escalado
+LUZA,Luza,Khumbu Himal (SW of Gokyo Lake),5710,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+MACH,Machhapuchhare,Annapurna Himal (SE of Annapurna III),6993,NO,SI,NO,0,Closed,Nepal,Sin escalar
+MAK2,Makalu II,Makalu Himal (NNW of Makalu on Tibetan border),7678,SI,NO,NO,0,No hay,Nepal & China,Escalado
+MAKA,Makalu,Makalu Himal,8485,SI,NO,NO,0,No hay,Nepal & China,Escalado
+MALA,Malanphulan,"Khumbu Himal (S of Ama Dablam, NW of Kangtega)",6573,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+MANA,Manaslu,Manaslu Himal,8163,SI,NO,NO,0,No hay,Nepal,Escalado
+MANN,Manaslu North,Manaslu Himal (N of Manaslu),6994,SI,NO,NO,0,No hay,Nepal,Escalado
+MANP,Manapathi,Dhaulagiri Himal (SSW of Dhaulagiri I),6380,SI,NO,NO,0,No hay,Nepal,Escalado
+MARD,Mardi Himal,Annapurna Himal (SW of Machhapuchhare),5553,NO,NO,SI,1978,No hay,Nepal,Escalado
+MARI,Mariyang,Kanti Himal (SE of Kanti Himal on Tibetan border),6528,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+MARW,Mariyang West,Kanti Himal (WSW of Mariyang on Tibetan border),6455,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+MATA,Matathumba,Jagdula Lekh (S of Kanjiroba Himal),5767,NO,SI,NO,0,No hay,Nepal,Escalado
+MAYT,Mayonthang Kang,Kanti Himal (NW of Changdi Himal on Tibetan border),6449,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+MERA,Mera Peak,Khumbu Himal (S of Ama Dablam),6470,NO,NO,SI,1978,No hay,Nepal,Escalado
+MERR,Merra,Kangchenjunga Himal (WNW of Anidesh Chuli),6334,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+MERS,Mera South,Khumbu Himal (SW of Mera),6064,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+META,Metalung,"Khumbu Himal (in Hongku Valley, SE of Chamlang)",5608,NO,SI,NO,0,No hay,Nepal,Escalado
+MING,Mingbo Ri,Khumbu Himal (S of Ama Dablam and Mingbo La),6207,NO,SI,NO,0,No hay,Nepal,Sin escalar
+MNSL,Mansail,Mustang Himal (NW of Lo Manthang on Tibetan border),6235,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+MNSS,Mansail South,Mustang Himal (S of Mansail on Tibetan border),6248,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+MOJC,Mojca,Kangchenjunga Himal (W of Ramtang Chang),6024,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+MPNE,Manapathi NE,"Dhaulagiri Himal (SSW of Dhaulagiri I, NE of Manapathi)",6384,NO,SI,NO,0,No hay,Nepal,Escalado
+MUKT,Mukut Himal,"Mukut Himal (N of Sita Chuchura, S of Hongde)",6087,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+MUPK,Mustang Peak,Mustang Himal (S of Mustang Himal peak on Tibetan border),6229,NO,SI,NO,0,No hay,Nepal,Escalado
+MUST,Mustang Himal,Mustang Himal (S of Mansail on Tibetan border),6195,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+MYAG,Myagdi Matha,Dhaulagiri Himal (S of Dhaulagiri IV),6273,NO,SI,NO,0,No hay,Nepal,Sin escalar
+NAG1,Nangpai Gosum I,Khumbu Himal (WSW of Cho Oyu on Tibetan border),7321,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+NAG2,Nangpai Gosum II,Khumbu Himal (WSW of Cho Oyu on Tibetan border),7287,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+NALA,Nalakankar North,Nalakankar Himal (on W Nepal/Tibetan border),6062,SI,NO,NO,0,No hay,Nepal & China,Escalado
+NALS,Nalakankar South,Nalakankar Himal (on W Nepal/Tibetan border),6024,NO,SI,NO,0,No hay,Nepal & China,Escalado
+NAM2,Nampa II,Api Himal (W of Nampa),6585,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+NAM3,Nampa III,Api Himal (SE of Nampa),6611,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+NAMP,Nampa,Api Himal (E of Api),6729,SI,NO,NO,0,No hay,Nepal,Escalado
+NAMS,Nampa South,"Api Himal (S of Nampa, W of Nampa Chuli)",6130,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+NAN2,Nangamari II,Ohmi Kangri Himal (S of Nangamari I),6209,SI,NO,NO,0,No hay,Nepal,Escalado
+NANG,Nangamari I,Ohmi Kangri Himal (W of Chaw Peak on Tibetan border),6547,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+NAUL,Naulekh,Khumbu Himal (S of Mera Peak),6340,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+NAYA,Naya Kanga,Jugal Himal (W of Ganchempo by Kangja La),5863,NO,NO,SI,1978,No hay,Nepal,Escalado
+NEMJ,Nemjung,Peri Himal (S of Himlung Himal and Himjung),7140,SI,NO,NO,0,No hay,Nepal,Escalado
+NEPA,Nepal Peak,Jongsang Himal (N of Kangchenjunga on Indian border),7177,SI,NO,NO,0,No hay,Nepal & India,Escalado
+NGAP,Nepal Gap Peak,Kangchenjunga Himal (ENE of Gimmegela on Indian border),7007,SI,NO,NO,0,abierto en 2014,Nepal & India,Sin escalar
+NGO2,Ngojumba Kang II,Khumbu Himal (NE of Cho Oyu on Tibetan border),7743,SI,NO,NO,0,No hay,Nepal & China,Escalado
+NGO3,Ngojumba Kang III,Khumbu Himal (NE of Cho Oyu on Tibetan border),7681,SI,NO,NO,0,abierto en 2014 as Hillary Peak,Nepal & China,Sin escalar
+NGOF,Nagoru Far East,Peri Himal (NW of Himlung Himal),6145,NO,SI,NO,0,No hay,Nepal,Escalado
+NGOJ,Ngojumba Kang I,Khumbu Himal (NE of Cho Oyu on Tibetan border),7916,SI,NO,NO,0,abierto en 2014 as Tenzing Peak,Nepal & China,Escalado
+NGOR,Nagoru,Peri Himal (NW of Himlung Himal),6165,NO,SI,NO,0,No hay,Nepal,Escalado
+NILC,Nilgiri Central,Annapurna-Nilgiri Himal (NW of Annapurna I),6940,SI,NO,NO,0,No hay,Nepal,Escalado
+NILE,Nilgiri East,Annapurna-Nilgiri Himal (NNW of Annapurna I),6698,NO,SI,NO,0,No hay,Nepal,Escalado
+NILN,Nilgiri North,Annapurna-Nilgiri Himal (NW of Annapurna I),7061,SI,NO,NO,0,No hay,Nepal,Escalado
+NILS,Nilgiri South,Annapurna-Nilgiri Himal (NW of Annapurna I),6839,SI,NO,NO,0,No hay,Nepal,Escalado
+NORB,Norbu Kang,Kanjiroba Himal (SE of Phoksumdo Tal),6085,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+NPHU,Narphu,"Damodar Himal (WNW of Pisang Peak, E of Chulu East Peak)",5921,SI,NO,NO,0,No hay,Nepal,Escalado
+NREK,Nirekha,Khumbu Himal (NW of Lobuje Peak),6159,NO,NO,SI,2002,abierto en 2002 as trekking peak,Nepal,Escalado
+NUMB,Numbur,Rolwaling Himal (SW of Namche Bazar),6958,SI,NO,NO,0,No hay,Nepal,Escalado
+NUMR,Numri,"Khumbu Himal (S of Cho Polu, N of Baruntse)",6635,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+NUPE,Nuptse East I,Khumbu Himal (E of Nuptse main summit),7795,SI,NO,NO,0,Requires permit for Annapurna I,Nepal,Escalado
+NUPK,Nupche Kang,Khumbu Himal (ESE of Nangpa La on Tibetan border),6576,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+NUPL,Nup La Kang,Khumbu Himal (N of Nup La on Tibetan border),6861,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+NUPT,Nuptse,Khumbu Himal (SW of Everest),7864,SI,NO,NO,0,No hay,Nepal,Escalado
+NUPW,Nuptse West II,Khumbu Himal (NW of Nuptse main summit),7732,SI,NO,NO,0,Requiere permiso de Nuptse,Nepal,Escalado
+OHMI,Ohmi Kangri,Ohmi Kangri Himal (NW of Kangchenjunga on Tibetan border),6839,SI,NO,NO,0,No hay,Nepal & China,Escalado
+OMBG,Ombigaichen,Khumbu Himal (SE of Ama Dablam),6340,NO,NO,SI,2002,abierto en 2002 as trekking peak,Nepal,Escalado
+OMBK,Ombak Himal,Ohmi Kangri Himal (NE of Ombak La in Tibet),6300,NO,SI,NO,0,No hay,China only,Sin escalar
+OMIT,Omitso Go,Rolwaling Himal (NE of Kang Nachugo on Tibetan border),6332,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+OMRC,Omoga Ri Chang,Khumbu Himal (NNE of Kangtega),6070,NO,SI,NO,0,No hay,Nepal,Sin escalar
+PALD,Paldor,Ganesh Himal (SE of  Ganesh V),5903,NO,NO,SI,1978,No hay,Nepal,Escalado
+PAMA,Pama Himal,Shringi Himal (N of Chamar on Tibetan border),6300,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+PAN1,Panpoche 1,Manaslu Himal (NE of Sama village near Tibetan border),6620,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+PAN2,Panpoche 2,Manaslu Himal (NE of Sama village near Tibetan border),6504,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+PANB,Panbari,Peri Himal (NW of Larkya La),6905,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+PAND,Pandra,Ohmi Kangri Himal (NW of Lhonak),6670,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+PANG,Pangbuk Ri,Rolwaling Himal (N of Menlung La on Tibetan border),6625,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+PANN,Pangbuk North,Rolwaling Himal (NE of Pangbuk Ri on Tibetan border),6478,NO,SI,NO,0,No hay,Nepal & China,Escalado
+PANT,Panalotapa,Rolwaling Himal (W of Tengkangpoche),6687,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+PARC,Parchamo,Rolwaling Himal (S of Tesi Laptsa),6279,NO,NO,SI,1978,No hay,Nepal,Escalado
+PASA,Pasang Lhamu Chuli,Khumbu Himal (W of Cho Oyu & Cho Aui on Tibetan border),7350,SI,NO,NO,0,No hay,Nepal & China,Escalado
+PASH,Pashuwo,Ganesh Himal (N of Lampo on Tibetan border),6177,SI,NO,NO,0,abierto en 2003,Nepal & China,Sin escalar
+PATR,Patrasi Himal,Kanjiroba Himal (NE of Kande Huinchuli),6450,SI,NO,NO,0,No hay,Nepal,Escalado
+PAWR,Pawar Central,Pawar Himal (N of Larkya La),6621,NO,SI,NO,0,No hay,Nepal,Escalado
+PBUK,Pabuk Kang,Ohmi Kangri Himal (E of Nangamari I on Tibetan border),6244,SI,NO,NO,0,abierto en 2003,Nepal & China,Sin escalar
+PEMK,Pemthang Karpo Ri,Jugal Himal (NNW of Dorje Lhakpa on Tibetan border),6865,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+PEMR,Pemthang Ri,Jugal Himal (N of Pemthang Karpo Ri on Tibetan border),6743,NO,SI,NO,0,No hay,Nepal & China,Sin escalar
+PERH,Peri Himal,Peri Himal (SE of Cheo Himal on Tibetan border),6296,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+PERI,Peri,Langtang Himal (SE of Langtang Ri on Tibetan border),6174,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+PETH,Pethangtse,Khumbu Himal (NW of Makalu on Tibetan border),6739,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+PHAR,Pharilapcha,Khumbu Himal (SW of Gokyo Lake),6017,NO,NO,SI,2002,abierto en 2002,Nepal,Escalado
+PHNG,Phungi,Peri Himal (SE of Ratna Chuli on Tibetan border),6524,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+PHNH,Phungi Himal,Manaslu Himal (W of Manaslu),6538,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+PHOL,Phole,Kangchenjunga Himal (W of Kumbhakarna and Sobitongie),6645,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+PHUG,Phu Kang Go,Peri Himal (SE of Cheo on Tibetan border),6767,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+PHUK,Phu Kang,Peri Himal (N of Cheo Himal on Tibetan border),6694,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+PHUN,Phu Kang North,Peri Himal (N of Cheo Himal on Tibetan border),6580,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+PHUR,Phurbi Chhyachu,Jugal Himal (SE of Dorje Lhakpa on Tibetan border),6637,SI,NO,NO,0,No hay,Nepal & China,Escalado
+PIMU,Pimu,Rolwaling Himal (N of Tesi Laptsa),6344,NO,SI,NO,0,No hay,Nepal,Escalado
+PISA,Pisang,Damodar Himal (N of Marysangdi Valley),6091,NO,NO,SI,1978,No hay,Nepal,Escalado
+PK04,Peak 4,Khumbu Himal (SE of Baruntse),6736,SI,NO,NO,0,abierto en 2003,Nepal,Sin escalar
+PK29,Peak 29,Manaslu Himal (S of Manaslu),7871,SI,NO,NO,0,No hay,Nepal,Escalado
+PK41,Peak 41,Khumbu Himal (ESE of Ama Dablam),6648,SI,NO,NO,2002,abierto en 2002,Nepal,Escalado
+PKAR,Pankar Himal,Manaslu Himal (ENE of Samagaon on Tibetan border),6264,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+PLNG,Palung,North of Cho Oyu (in Tibet),7012,NO,SI,NO,0,Pico entereamente en China,China only,Escalado
+POIN,Pointed Peak,"Khumbu Himal (N of Cholatse, S of Tshola La)",5850,NO,SI,NO,0,No hay,Nepal,Escalado
+POKA,Pokalde,Khumbu Himal (N of Ama Dablam),5780,NO,NO,SI,1978,No hay,Nepal,Escalado
+POKR,Pokharkang,Damodar Himal (N of Pisang Peak),6372,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+POTA,Pota Himal North,Dhaulagiri Himal (NE of Putha Hiunchuli),6182,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+PTHE,Pethangtse East,Khumbu Himal (ESE of Pethangtse on Tibetan border),6572,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+PUCH,Punchen Himal,Shringi Himal (in Tsum Valley N of Pashuwo on Tibetan border),6049,SI,NO,NO,0,No hay,Nepal & China,Sin escalar
+PUMO,Pumori,Khumbu Himal (WNW of Everest on Tibetan border),7138,SI,NO,NO,0,No hay,Nepal & China,Escalado
+PURB,Purbung Himal,Damodar Himal (N of Chulu West),6500,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+PURK,Purkhung,Damodar Himal (NE of Thorong La),6126,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+PUTH,Putha Hiunchuli,Dhaulagiri Himal (W of Churen Himal),7246,SI,NO,NO,0,No hay,Nepal,Escalado
+PYRM,Pyramid Peak,Jongsang Himal (N of Kangchenjunga on Indian border),7140,SI,NO,NO,0,No hay,Nepal & India,Escalado
+RAKS,Raksha Urai,Raksha Urai Himal (ENE of Nampa),6609,SI,NO,NO,0,No hay,Nepal,Escalado
+RAMC,Ramtang Chang,Kangchenjunga Himal (N of Ramtang),6802,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+RAMD,Ramdung,Rolwaling Himal (W of Tesi Laptsa),5900,NO,NO,SI,1978,No hay,Nepal,Escalado
+RAMT,Ramtang,Kangchenjunga Himal (N of Kangbachen),6601,SI,NO,NO,0,abierto en 1997,Nepal,Escalado
+RANI,Rani Peak,"Mansiri Himal (SE of Manaslu, NE of Himalchuli Main)",6693,NO,SI,NO,0,No hay,Nepal,Escalado
+RATC,Ratna Chuli,Peri Himal (NW of Himlung on Tibetan border),7035,SI,NO,NO,0,abierto en 2002,Nepal & China,Escalado
+RATH,Rathong,Simhalila Himal (SW of Kabru on Indian border),6682,SI,NO,NO,0,No hay,Nepal & India,Escalado
+RAUN,Raungsiyar,Rolwaling Himal (N of Pimu),6224,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+RHIM,Rhimbu,Shringi Himal (S of Tobsar),6210,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+RIPI,Ripimo Shar,Rolwaling Himal (S of Dingjung Ri on Tibetan border),6647,SI,NO,NO,0,abierto en 2014 (as Khang Karpo),Nepal & China,Escalado
+ROCN,Roc Noir,Annapurna Himal (ENE of Annapurna I),7485,SI,NO,NO,0,No hay,Nepal,Escalado
+ROKA,Rokapi,"Api Himal (S of Nampa, Bobaye and Jethi Bahurani)",6468,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+ROLK,Rolwaling Kang,Rolwaling Himal (NNE of Tarkago),6664,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+ROLM,Rolmi,Shringi Himal (S of Tobsar),6056,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+ROMA,Roma,Saipal Himal (SW of Saipal),5407,SI,NO,NO,0,Delisted in 2014,Nepal,Sin escalar
+SAIE,Saipal East Humla,Saipal Himal (NE of Saipal),6925,SI,NO,NO,0,No hay,Nepal,Escalado
+SAIP,Saipal,Saipal Himal,7030,SI,NO,NO,0,No hay,Nepal,Escalado
+SALD,Saldim,Makalu Himal (ENE of Shershon village on Tibetan border),6374,SI,NO,NO,0,abierto en 2003,Nepal & China,Sin escalar
+SALW,Saldim West,Makalu Himal (ENE of Shershon village on Tibetan border),6388,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+SAMD,Samdo,Manaslu Himal (NNE of Panpoche 1 & 2 on Tibetan border),6335,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+SANB,Sano Bhrikuti,Damodar Himal (ENE of Bhrikuti),6328,NO,SI,NO,0,No hay,Nepal,Escalado
+SANC,Sanctuary Peak,Kanjiroba Himal (N of Kanjiroba North),6207,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+SANK,Sano Kailash,,6452,NO,SI,NO,0,No hay,Nepal,Escalado
+SARI,Saribung,Damodar Himal (W of Bhrikuti),6328,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+SATO,Sat Peak,Ohmi Kangri Himal (N of Sharphu range),6164,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+SAUL,Saula,Manaslu Himal (ENE of Samagaon on Tibetan border),6235,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+SHA2,Shartse II,Khumbu Himal (E of Lhotse Shar on Tibetan border),7457,SI,NO,NO,0,No hay,Nepal & China,Escalado
+SHAL,Shalbachum,Langtang Himal (E of Langtang Lirung on Tibetan border),6707,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+SHAR,Shartse,Khumbu Himal (E of Lhotse Shar on Tibetan border),7591,SI,NO,NO,0,No hay,Nepal & China,Sin escalar
+SHER,Shershon,Makalu Himal (NE of Shershon village on Tibetan border),6432,SI,NO,NO,0,abierto en 2003,Nepal & China,Sin escalar
+SHEY,Shey Shikhar,Kanjiroba Himal (SE of Kanjiroba and Tripura Hiunchuli),6139,SI,NO,NO,0,No hay,Nepal,Escalado
+SHNW,Shershon Northwest,Makalu Himal (NW of Shershon on Tibetan border),6682,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+SIMN,Simnang Himal,Manaslu Himal (SE of Manaslu),6251,SI,NO,NO,0,abierto en 2001,Nepal,Escalado
+SING,Singu Chuli,Annapurna Himal (Annapurna Sanctuary),6501,NO,NO,SI,1978,No hay,Nepal,Escalado
+SISN,Sisne Himal,Sisne Himal (SW of Juphal in Rukum),5911,SI,NO,NO,0,No hay,Nepal,Escalado
+SITA,Sita Chuchura,Mukut Himal (ENE of Dhaulagiri II near French Pass),6611,SI,NO,NO,0,No hay,Nepal,Escalado
+SNOW,Snow Peak,Dhaulagiri Himal (E of Dhaulagiri II),6530,NO,SI,NO,0,No hay,Nepal,Sin escalar
+SOBI,Sobithongie,Kangchenjunga Himal (W of Kumbhakarna),6652,SI,SI,NO,0,abierto en 2002,Nepal,Sin escalar
+SPH1,Sharphu I,Ohmi Kangri Himal (WNW of Kangchenjunga),6433,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+SPH2,Sharphu II,Ohmi Kangri Himal (WNW of Kangchenjunga),6328,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+SPH3,Sharphu III,Ohmi Kangri Himal (WNW of Kangchenjunga),6220,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+SPH4,Sharphu IV,Ohmi Kangri Himal (WNW of Kangchenjunga),6172,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+SPH5,Sharphu V,Ohmi Kangri Himal (WNW of Kangchenjunga),6158,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+SPH6,Sharphu VI,Ohmi Kangri Himal (WNW of Kangchenjunga),6076,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+SPHN,Sphinx,Jongsang Himal (NE of Pathibhara on Indian border),6825,SI,NO,NO,0,abierto en 2014,Nepal & India,Escalado
+SRKU,Serku Dolma,Kanjiroba Himal (S of Tso Karpo Kang),6227,NO,SI,NO,0,No hay,Nepal,Escalado
+SURM,Surma-Sarovar North,Api Himal (SSE of Jethi Bahurani),6564,SI,NO,NO,0,No hay,Nepal,Escalado
+SWAK,Swaksa Kang,Kanti Himal (SE of Kanti Himal peak on Tibetan border),6405,SI,NO,NO,0,abierto en 2003,Nepal & China,Sin escalar
+SWEL,Swelokhan,Manaslu Himal (N of Samdo village on Tibetan border),6180,SI,NO,NO,0,abierto en 2003,Nepal & China,Sin escalar
+SYKG,Syaokang,Ohmi Kangri Himal (SW of Ohmi Kangri near Tibetan border),5929,SI,NO,NO,0,No hay,Nepal,Escalado
+TAKL,Takla Kang,Kanti Himal (W of Kanti Himal peak on Tibetan border),6276,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+TAKN,Takphu North,Nalakankar Himal (on W Nepal/Tibetan border),6142,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+TAKP,Takphu Himal,Nalakankar Himal (on W Nepal/Tibetan border),6395,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+TANK,Tankya I,Kanti Himal (NE of Mariyang on Tibetan border),6305,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+TAPL,Taple Shikhar,Kangchenjunga Himal (W of Nepal Peak),6447,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+TARS,Tarke Kang Shar,Annapurna Himal (E of Glacier Dome),7069,NO,SI,NO,0,No hay,Nepal,Escalado
+TASH,Tashi Kang,Mukut Himal (N of Dhampus Peak),6386,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+TAWA,Tawa,Damodar Himal (NNE of Yakawa Kang),6110,NO,SI,NO,0,No hay,Nepal,Escalado
+TAWO,Tawoche,Khumbu Himal (NW of Ama Dablam),6495,SI,NO,NO,0,No hay,Nepal,Escalado
+TENE,Tengi Ragi Tau East,Rolwaling Himal (NE of Tesi Laptsa),6675,NO,SI,NO,0,No hay,Nepal,Escalado
+TENG,Tengkoma,Jongsang Himal (NW of Kangchenjunga),6215,SI,NO,NO,0,abierto en 1997,Nepal,Escalado
+TENR,Tengi Ragi Tau,Rolwaling Himal (N of Tesi Laptsa),6938,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+TENS,Tengi Ragi Tau South,Rolwaling Himal (E of Tesi Laptsa),6141,NO,SI,NO,0,No hay,Nepal,Escalado
+THAM,Thamserku,Khumbu Himal (SW of Ama Dablam),6618,SI,NO,NO,0,No hay,Nepal,Escalado
+THAR,Tharpu Chuli,Annapurna Himal (Annapurna Sanctuary),5695,NO,NO,SI,1978,No hay,Nepal,Escalado
+THOC,Thoche Go,Peri Himal (SE of Cheo Himal on Tibetan border),6602,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+THOR,Thorong Peak,"Muktinath Himal, south of Thorong La",6144,SI,NO,NO,0,No hay,Nepal,Escalado
+THRK,Tharke Kang,Khumbu Himal (S of Nup La on Tibetan border),6710,SI,NO,NO,0,abierto en 2014,Nepal & China,Escalado
+THUL,Thulagi,Manaslu Himal (SW of Manaslu),7059,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+TILI,Tilicho,Annapurna-Nilgiri Himal (N of Annapurna I),7134,SI,NO,NO,0,No hay,Nepal,Escalado
+TILJ,Tilje,Peri Himal (SE of Gyajikang),6530,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+TILK,Til Kang,Nalakankar Himal (on W Nepal/Tibetan border),6369,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+TKPO,Tengkangpoche,Rolwaling Himal (W of Kwangde),6482,SI,NO,NO,0,abierto en 2001,Nepal,Escalado
+TKRE,Takargo East,Rolwaling Himal (ESE of Takargo),6152,SI,NO,NO,0,abierto en 2014,Nepal,Escalado
+TKRG,Takargo,Rolwaling Himal (E of Chobutse),6771,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+TLNG,Talung,Simhalila Himal (S of Kangchenjunga on Indian border),7349,SI,NO,NO,0,abierto en 2002,Nepal & India,Escalado
+TOBS,Tobsar,Shringi Himal (ENE of Chamar),6065,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+TONG,Tongu,Mukut Himal (N of Hongde in Hidden Valley),6187,NO,SI,NO,0,No hay,Nepal,Escalado
+TRIA,Triangle Peak,Jugal Himal (NNW of Dome Blanc on Tibetan border),6484,NO,SI,NO,0,No hay,Nepal & China,Escalado
+TRIP,Tripura Hiunchuli,Kanjiroba Himal (SE of Kanjiroba),6553,SI,NO,NO,0,No hay,Nepal,Escalado
+TSAR,Tsartse,Mukut Himal (N of Dhampus Peak),6343,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+TSIS,Tsisima,Janak Himal (WSW of Janak Chuli),6196,NO,SI,NO,0,No hay,Nepal,Escalado
+TSKP,Tso Karpo,"Kanjiroba Himal (E of Kanjiroba, W of Tso Karpo Kang)",6518,SI,NO,NO,0,abierto en 2002,Nepal,Sin escalar
+TSOK,Tso Karpo Kang,Kanjiroba Himal (E of Kanjiroba),6556,SI,NO,NO,0,abierto en 2002,Nepal,Escalado
+TSUR,Tsaurabong Peak,Dhaulagiri Himal (SSE of Dhaulagiri V),6395,NO,SI,NO,0,No hay,Nepal,Escalado
+TUKU,Tukuche,Dhaulagiri Himal (NE of Dhaulagiri I),6920,SI,NO,NO,0,No hay,Nepal,Escalado
+TUTS,Tutse,Makalu Himal (SE of Makalu),6758,SI,NO,NO,0,abierto en 2003,Nepal,Sin escalar
+URKM,Urkinmang,Jugal Himal (W of Dorje Lhakpa),6143,SI,NO,NO,0,No hay,Nepal,Escalado
+URMA,Urkema,Langtang Himal (W of Ganja La),5890,SI,NO,NO,0,No hay,Nepal,Escalado
+YAKA,Yakawa Kang,Damodar Himal (N of Thorong La),6482,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+YALU,Yalung Kang,Kangchenjunga Himal (W summit of Kangchenjunga),8505,SI,NO,NO,0,No hay,Nepal,Escalado
+YALW,Yalung Kang West,Kangchenjunga Himal (W summit of Yalung Kang),8077,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+YANG,Yangri,Jugal Himal (N of Phurbi Chhyachu on Tibetan border),6535,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+YANK,Yanme Kang,Ohmi Kangri Himal (NW of Nangamari on Tibetan border),6206,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+YANS,Yansa Tsenji,Langtang Himal (SW of Shalbachum on Tibetan border),6567,SI,NO,NO,0,abierto en 2003,Nepal,Escalado
+YARA,Yara Chuli,Palchung Himal (SE of Changdi on Tibetan border),6236,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+YARW,Yarwa,Guras Himal (NW of Nampa on Tibetan border),6644,SI,NO,NO,0,abierto en 2014,Nepal,Sin escalar
+YAUP,Yaupa,Makalu Himal (NE of Shershon village on Tibetan border),6422,SI,NO,NO,0,abierto en 2003,Nepal & China,Escalado
+YLNG,Yalung Peak,Kangchenjunga Himal (WSW of Kangbachen),7590,NO,SI,NO,0,No hay,Nepal,Sin escalar
+YNGS,Yangra Kangri South,Ganesh Himal (NW of Ganesh III on Tibetan border),6863,SI,NO,NO,0,abierto en 2014,Nepal & China,Sin escalar
+YOKO,Yokopahar,Guras Himal (NNE of Nampa towards Tibetan border),6423,SI,NO,NO,0,abierto en 2002,Nepal & China,Sin escalar
+YUBR,Yubra,Langtang Himal (ENE of Langtang Lirung),6264,NO,SI,NO,0,No hay,Nepal,Sin escalar
