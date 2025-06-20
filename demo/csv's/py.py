@@ -1,6 +1,6 @@
 import csv
 
-# Paso 1: Cargar miembros y verificar quién es líder
+# Paso 1: Cargar miembros y verificar quién es líde
 lideres = set()
 with open('Miembros.csv', newline='', encoding='utf-8') as f_miembros:
     lector_miembros = csv.DictReader(f_miembros)
