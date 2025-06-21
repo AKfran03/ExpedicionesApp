@@ -1,6 +1,6 @@
 
 package expedicionesapp.dao;
-
+import expedicionesapp.util.DBConnection;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
