@@ -1,11 +1,20 @@
 package expedicionesapp;
 
-import expedicionesapp.util.Conexion;
+import java.sql.Connection;
+import java.sql.SQLException;
 
 public class Main {
     public static void main(String[] args) {
-        Conexion c = new Conexion();
-        c.mostrarMiembros();
+        try{
+            Connection conn=DBConnection.getConnection();
+            if(conn!=null && !conn.isClosed()){
+                System.err.println("Conexion establecida");
+            }
+        }catch(SQLException e){
+            System.err.println("Error al probar Conexion"+e.getMessage());
+        }finally{
+            DBConnection.closeConnection();
+        }
     }
 }
 /*
