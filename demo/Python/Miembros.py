@@ -13,12 +13,12 @@ def convertir_bit(valor):
     valor = valor.strip().lower().replace("í", "i")
     return 1 if valor == "si" else 0
 
-# Leer miembros.csv y generar Mieembros.csv con id_miembro autoincremental
+# Leer miembros.csv y generar Mieembros.csv sin id_expedicion
 with open('miembros.csv', newline='', encoding='utf-8') as f_entrada, \
      open('Mieembros.csv', 'w', newline='', encoding='utf-8') as f_salida:
     
     lector = csv.DictReader(f_entrada)
-    campos = ['id_miembro', 'id_nacionalidad', 'nombre', 'apellido', 'sexo', 'es_lider', 'es_staff', 'año_nacimiento', 'fallecido', 'id_expedicion']
+    campos = ['id_miembro', 'id_nacionalidad', 'nombre', 'apellido', 'sexo', 'es_lider', 'es_staff', 'año_nacimiento', 'fallecido']
     escritor = csv.DictWriter(f_salida, fieldnames=campos)
     escritor.writeheader()
 
@@ -38,10 +38,9 @@ with open('miembros.csv', newline='', encoding='utf-8') as f_entrada, \
             'es_lider': convertir_bit(fila['es_lider']),
             'es_staff': convertir_bit(fila['contratado']),
             'año_nacimiento': int(fila['año_nacimiento']),
-            'fallecido': convertir_bit(fila['fallecido']),
-            'id_expedicion': fila['id_expedicion'].strip()
+            'fallecido': convertir_bit(fila['fallecido'])
         })
 
         id_auto += 1
 
-print("✅ Archivo 'Mieembros.csv' creado correctamente.")
+print("✅ Archivo 'Mieembros.csv' creado correctamente sin el campo id_expedicion.")
