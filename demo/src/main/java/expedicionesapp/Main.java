@@ -1,10 +1,20 @@
 package expedicionesapp;
 import expedicionesapp.util.DBConnection;
+import expedicionesapp.dao.PicoDao;
+import expedicionesapp.dao.MiembrosDao;
+import expedicionesapp.dao.ExpedicionesDao;
 import java.sql.Connection;
 import java.sql.SQLException;
 
 public class Main {
     public static void main(String[] args) {
+        PicoDao dao=new PicoDao();
+        MiembrosDao daom=new MiembrosDao();
+        ExpedicionesDao daoe=new ExpedicionesDao();
+        dao.mostrarPicoPorId(1);
+        daom.mostrarMiembroPorId(1);
+        daoe.mostrarExpedicionPorId(1);
+        
         try{
             Connection conn=DBConnection.getConnection();
             if(conn!=null && !conn.isClosed()){

@@ -1,20 +1,21 @@
 
 package expedicionesapp.dao;
 import expedicionesapp.util.DBConnection;
+import expedicionesapp.model.Pico;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class PicosDao {
+public class PicoDao {
         // Muestra UN solo pico por su ID
-    public void mostrarPicoPorId(int idPico) {
+    public void mostrarPicoPorId(int id_Pico) {
         String sql = "SELECT * FROM Pico WHERE id_Pico = ?";
 
         try (Connection conn = DBConnection.getConnection();
              PreparedStatement stmt = conn.prepareStatement(sql)) {
 
-            stmt.setInt(1, idPico);
+            stmt.setInt(1, id_Pico);
             ResultSet rs = stmt.executeQuery();
 
             if (rs.next()) {
@@ -30,7 +31,7 @@ public class PicosDao {
                 System.out.println("ID Host: " + rs.getInt("id_host"));
                 System.out.println("ID Restricciones: " + rs.getInt("id_restricciones"));
             } else {
-                System.out.println("No se encontro ningun pico con el ID " + idPico);
+                System.out.println("No se encontro ningun pico con el ID " + id_Pico);
             }
 
         } catch (SQLException e) {
