@@ -35,4 +35,25 @@ public class MiembrosDao {
             System.err.println("Error al mostrar el pico: " + e.getMessage());
         }
     }
+    public void InsertarMiembro(Miembros miembro){
+         String sql = "INSERT INTO Miembros (id_miembro, nacionalidad, nombre, apellido, sexo, es_lider, es_staff, ano_nacimiento, fallecido)" + "VALUES (?,?,?,?,?,?,?,?,?)";
+         try (Connection conn = DBConnection.getConnection();
+         PreparedStatement stmt = conn.prepareStatement(sql)){
+             stmt.setInt(1, miembro.getId_miembro());
+             stmt.setString(2, miembro.getNacionalidad());
+             stmt.setString(3, miembro.getNombre());
+             stmt.setString(4, miembro.getApellido());
+             stmt.setString(5, miembro.getSexo());
+             stmt.setBoolean(6, miembro.isEs_lider());
+             stmt.setBoolean(7, miembro.isEs_staff());
+             stmt.setInt(8, miembro.getAno_nacimiento());
+             stmt.setBoolean(9, miembro.isFallecido());
+             stmt.executeUpdate();
+             System.out.println("Miembro agregado correctamente");
+        }catch (SQLExeption e){
+             System.err.println("Error al insertar el miembro: " + e.getMessage());
+
+         }
+
+    }
 }
